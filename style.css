@@ -1,0 +1,80 @@
+*{
+    padding:0;
+    margin:0;
+}
+body {
+    background-image: url("bac.jpg");
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 253, 253);
+    text-align: center;
+    
+    padding: 24px 40px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #61606000;
+  }
+  .box{
+  position: relative;
+    left:80px;
+    top:40px;
+    height:630px;
+    width:1150px;
+    background-image: linear-gradient(rgb(74, 40, 214), rgb(132, 45, 194), rgb(255, 0, 251));
+   opacity:0.8;
+  }
+ #head{
+ font-size:100px;
+ width:500px;
+ padding:30px;
+ color:azure;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .head{
+  font-size:50px;
+  width:550px;
+  padding:30px;
+  color:rgba(240, 255, 255, 0.774);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ #btn{
+  height:50px;
+  width:200px;
+  border-radius: 0px 20px 20px 0px ;
+  border: none;
+  position: absolute;
+   background-image: linear-gradient( rgb(98, 186, 234),rgb(119, 78, 175), rgb(173, 74, 244));
+  left:50px;
+  color:azure;
+ }
+ .box p{
+  position:absolute;
+  left:50px;
+ }
+  .lg{
+    color:aliceblue;
+    padding:25px;
+    font-size: xx-large;
+    position: absolute;
+  }
+  #img{
+    position:absolute;
+    top:20px;
+    left:600px;
+  }
