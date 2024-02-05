@@ -1,5 +1,5 @@
 # LandingPage
-https://khanfiza.github.io/LandingPage/
+Link of Website: https://khanfiza.github.io/LandingPage/
 
 ![Screenshot (46)](https://github.com/khanfiza/LandingPage/assets/90319355/aa257d86-df66-4273-804d-95195e50f8dc)
 
